@@ -40,8 +40,7 @@ $ git clone https://github.com/tetraprism95/MQR.git
 
 - Not able to satisfy couple constraints. Will Fix Soon. 
 
-# Future Updates? 
-## Will Add
+## Future Updates? Will Add..
 - app logo
 - Overlay Views
 - Polylines
