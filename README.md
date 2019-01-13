@@ -10,7 +10,7 @@ My App, MQR(Map Quest Remake) or simply an "OK" version of Apple Maps, accesses 
 # Built With
 <pre>
 IDE: Xcode (NEEDED TO OPEN)
-Language: Swift 4.2
+Language&Version: Swift 4.2  
 Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 </pre>
 
