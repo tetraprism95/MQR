@@ -24,8 +24,7 @@ $ git clone https://github.com/tetraprism95/MQR.git
 
 ## Bugs
 
-<pre>
 When running the application the first time, during the sheet transition from mid to top or bot to top, tableView will not be scrolled down first time, need to pan through it again. After the repetition of panning, it will work smoothly.  
-</pre>
+
 
 
