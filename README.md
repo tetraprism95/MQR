@@ -40,13 +40,13 @@ $ git clone https://github.com/tetraprism95/MQR.git
 
 - Not able to satisfy couple constraints. Will Fix Soon. 
 
-## Future Updates? 
-
-- Will add app logo
-- Will add Overlay Views
-- Will add Polylines
-- Will add length in time between between two points
-- Will add suggestions
+### Future Updates? 
+## Will Add
+- app logo
+- Overlay Views
+- Polylines
+- length in time between two points
+- suggestions
 - etc.....
 
 
