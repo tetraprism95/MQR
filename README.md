@@ -40,6 +40,12 @@ $ git clone https://github.com/tetraprism95/MQR.git
 
 - Not able to satisfy couple constraints. Will Fix Soon. 
 
+## Future Updates? 
 
+- Will add Overlay Views
+- Will add Polylines
+- Will add length in time between between two points
+- Will add suggestions
+- etc.....
 
 
