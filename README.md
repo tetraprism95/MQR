@@ -16,8 +16,16 @@ Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 
 ## Git Clone Terminal Over HTTPS
 
-<pre >
+<pre>
 $ git clone https://github.com/tetraprism95/MQR.git 
 </pre> 
+
+## Implementations
+
+## Bugs
+
+<pre>
+When running the application the first time, during the sheet transition from mid to top or bot to top, tableView will not be scrolled down first time, need to pan through it again. After the repetition of panning, it will work smoothly.  
+</pre>
 
 
