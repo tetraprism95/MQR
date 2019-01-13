@@ -16,6 +16,8 @@ Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 
 # Git Clone Terminal Over HTTPS
 
+<pre >
 $ git clone https://github.com/tetraprism95/MQR.git 
+</pre> 
 
 
