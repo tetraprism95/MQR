@@ -40,6 +40,13 @@ $ git clone https://github.com/tetraprism95/MQR.git
 
 - Not able to satisfy couple constraints. Will Fix Soon. 
 
+## Code Structure?
+
+- Yes, I know I need enum. Will update soon.
+- Also to add DispatchQueue.main.async when needed. 
+- Create extra extension for classes that use it's functionality a lot. 
+- I will try to make it more readable for the user.
+
 ## Future Updates? Will Add..
 - app logo
 - Overlay Views
